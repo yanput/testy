@@ -1,0 +1,8 @@
+org\example\mtgtests\MtgTestApplicationTests.class
+org\example\mtgtests\resources\TestResourceGenerator.class
+org\example\mtgtests\client\MTGClientIntegrationTest.class
+org\example\mtgtests\resources\TestResources.class
+org\example\mtgtests\trie\SearchTrieIntegrationTest.class
+org\example\mtgtests\catalog\MTGCatalogIntegrationTest.class
+org\example\mtgtests\trie\RedundantTrieTest.class
+org\example\mtgtests\resources\TestResourceConfigurationException.class
